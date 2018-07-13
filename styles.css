@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div {
+    padding: 5%;
+}
+
+#image {
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#title {
+    color: white;
+    font-weight: bolder;
+    text-align: center;
+}
+
+#img-div {
+    text-align: center;
+    background-color: white;
+    border-radius: 5%;
+    padding: 10px;
+    margin: 20px;
+}
+
+#tribute-info {
+    color: white;
+    font-size: 24px;
+}
